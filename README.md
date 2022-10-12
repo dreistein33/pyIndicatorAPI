@@ -1,5 +1,7 @@
 # pyIndicatorAPI
-IndicatorAPI.com wrapper
+[IndicatorAPI.com](https://indicatorapi.com) wrapper
+
+[PyPi Website](https://pypi.org/project/pyIndicatorAPI/)
 
 How to install:
 1) Make sure you have latest version of pip
