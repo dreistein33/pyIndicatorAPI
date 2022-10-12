@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'IndicatorAPI.com wrapper'
 LONG_DESCRIPTION = 'A package that allows developers to use indicatorapi quickly.'
 project_urls = {'GitHub': 'https://github.com/dreistein33/pyIndicatorAPI'}
