@@ -1,6 +1,6 @@
 import requests
 
-from handlers.inderrhandler import handle_status_code, handle_log
+from .handlers.inderrhandler import handle_status_code, handle_log
 
 # The way of using this class is simple
 # Create instance of an object class
